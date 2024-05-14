@@ -779,15 +779,12 @@ contact.html
 ## OUTPUT:
 
  ![Screenshot 2024-05-14 200236](https://github.com/keerthivasan50/softweb/assets/150429883/9cf9f024-6163-45b2-b2c4-75616f9ea971)
-![Screenshot 2024-05-14 200236](https://github.com/keerthivasan50/softweb/assets/150429883/9cf9f024-6163-45b2-b2c4-75616f9ea971)
 
-![Screenshot 2024-05-14 200247](https://github.com/keerthivasan50/softweb/assets/150429883/dc9d3487-fe7c-45ee-9040-d0aa7646de94)
+
 ![Screenshot 2024-05-14 200247](https://github.com/keerthivasan50/softweb/assets/150429883/dc9d3487-fe7c-45ee-9040-d0aa7646de94)
 
 ![Screenshot 2024-05-14 200259](https://github.com/keerthivasan50/softweb/assets/150429883/d2536c73-dfd9-4b58-8758-dbb398bd118b)
-![Screenshot 2024-05-14 200259](https://github.com/keerthivasan50/softweb/assets/150429883/d2536c73-dfd9-4b58-8758-dbb398bd118b)
 
-![Screenshot 2024-05-14 200345](https://github.com/keerthivasan50/softweb/assets/150429883/9cf5d896-8a95-43f5-8007-34dba5203a94)
 ![Screenshot 2024-05-14 200345](https://github.com/keerthivasan50/softweb/assets/150429883/9cf5d896-8a95-43f5-8007-34dba5203a94)
 
 
